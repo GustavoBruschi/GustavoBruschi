@@ -1,16 +1,26 @@
-### Hi there 👋
+# Gustavo Bruschi
 
-<!--
-**GustavoBruschi/GustavoBruschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack JavaScript | Entusiasta de Node.js e React.js
 
-Here are some ideas to get you started:
+## Tecnologias Favoritas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js
+- React.js
+- Express
+- MongoDB
+- Typescript
+- HTML, CSS, JavaScript
+
+## Redes Sociais
+
+- [LinkedIn](https://www.linkedin.com/in/gustavobruschi/)
+- [Twitter](https://twitter.com/BruschiGu)
+
+## Idiomas
+
+- Português (nativo)
+- Inglês (avançado)
+
+## Contato
+
+- Email: gustavo.bruschi@outlook.com
