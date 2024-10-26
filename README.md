@@ -1,4 +1,3 @@
-
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/gustavobruschi/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/gubruschi53" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
@@ -13,7 +12,7 @@
   <br>
   💻 Eu gosto de escrever códigos e aprender sobre.
   <br>
-  📚 No momento estou estudando a linguagem C++ para fortalecer a base.
+  📚 No momento estou estudando desenvolvimento web.
   <br>
   📫 Como me contatar: <a href="mailto: gustavobruschicoelho@gmail.com">gustavobruschicoelho@gmail.com</a>
 </p>
@@ -22,9 +21,6 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Typescript" height="25" src="images/typescript.svg"></code>
@@ -34,13 +30,14 @@
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="ruby" height="25" src="images/ruby.svg"></code>
+  <code><img title="nextJs" height="25" src="images/nextJs.svg"></code>
+  <code><img title="svelte" height="25" src="images/svelte.svg"></code>
 </p>
 <hr>
