@@ -36,8 +36,9 @@
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="ruby" height="25" src="images/ruby.svg"></code>
-  <code><img title="nextJs" height="25" src="images/nextJs.svg"></code>
-  <code><img title="svelte" height="25" src="images/svelte.svg"></code>
+  <code><img title="Ruby" height="25" src="images/ruby.svg"></code>
+  <code><img title="NextJs" height="25" src="images/nextJs.svg"></code>
+  <code><img title="Svelte" height="25" src="images/svelte.svg"></code>
+  <code><img title="Node" height="25" src="images/node.png"></code>
 </p>
 <hr>
