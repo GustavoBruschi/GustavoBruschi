@@ -21,7 +21,10 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="Cpp" height="25" src="images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title=".NET" height="25" src="images/dotnetcore.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Typescript" height="25" src="images/typescript.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
@@ -36,9 +39,7 @@
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Ruby" height="25" src="images/ruby.svg"></code>
   <code><img title="NextJs" height="25" src="images/nextJs.svg"></code>
-  <code><img title="Svelte" height="25" src="images/svelte.svg"></code>
   <code><img title="Node" height="25" src="images/node.png"></code>
 </p>
 <hr>
