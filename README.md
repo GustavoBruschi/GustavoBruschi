@@ -12,7 +12,7 @@
   <br>
   💻 Eu gosto de escrever códigos e aprender sobre.
   <br>
-  📚 No momento estou praticando programação competitivas.
+  📚 No momento estou praticando programação competitiva.
   <br>
   📫 Como me contatar: <a href="mailto: gustavobruschicoelho@gmail.com">gustavobruschicoelho@gmail.com</a>
 </p>
